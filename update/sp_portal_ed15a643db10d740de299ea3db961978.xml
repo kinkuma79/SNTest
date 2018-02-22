@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary: #009cdc;
+$body-bg: #f0f3f4;
+$state-success-text: #5cb85c;
+$sp-homepage-bg: #fff;
+$sp-navbar-divider-color: #ffffff;
+$text-color: #000;
+$sp-logo-margin-y: .5rem;
+$navbar-inverse-link-hover-color: #ffffff;
+$panel-bg: #fff;
+$brand-success: #5cb85c;
+$navbar-inverse-bg: #ffffff;
+$brand-warning: #f0ad4e;
+$brand-danger: #d9534f;
+$sp-tagline-color: #717171;
+$navbar-inverse-link-color: #000;
+$brand-info: #5bc0de;
+$link-color: #009cdc;
+$sp-logo-margin-x: 15px;
+$btn-default-bg: #fff;
+$text-muted: #979797;
+</css_variables>
+        <default>false</default>
+        <homepage display_value="aflac_index">f1856e43db10d740de299ea3db9619ed</homepage>
+        <icon/>
+        <kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
+        <kb_knowledge_page display_value="kb_home">e1c919e4dbd3220099f93691f0b8f535</kb_knowledge_page>
+        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
+        <logo>1437a283db10d740de299ea3db9619cc.iix?t=m</logo>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog display_value="Aflac General Services">e1ddadcfdb1c9740de299ea3db9619b9</sc_catalog>
+        <sc_catalog_page display_value="sc_home">fe87a11147132100ba13a5554ee490b9</sc_catalog_page>
+        <sc_category_page/>
+        <sp_chat_queue display_value="Service Desk Chat">c54f0abf0a0a0b452db84664f409c79c</sp_chat_queue>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-20 04:33:00</sys_created_on>
+        <sys_id>ed15a643db10d740de299ea3db961978</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Aflac</sys_name>
+        <sys_package display_value="Lease Rental Car Management" source="x_snc_lease_rental">fc4da94fdbd89740de299ea3db961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lease Rental Car Management">fc4da94fdbd89740de299ea3db961936</sys_scope>
+        <sys_update_name>sp_portal_ed15a643db10d740de299ea3db961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-20 05:18:32</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>Aflac</title>
+        <url_suffix>aflac</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed15a643db10d740de299ea3db961978"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#fde6c3</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/gif</content_type>
+        <encryption_context/>
+        <file_name>logo</file_name>
+        <image_height>62</image_height>
+        <image_width>140</image_width>
+        <size_bytes>4564</size_bytes>
+        <size_compressed>4289</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-20 04:32:57</sys_created_on>
+        <sys_id>1437a283db10d740de299ea3db9619cc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-20 04:32:57</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>ed15a643db10d740de299ea3db961978</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="1437a283db10d740de299ea3db9619cc">1437a283db10d740de299ea3db9619cc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-20 04:32:57</sys_created_on>
+        <sys_id>1c37a283db10d740de299ea3db9619cc</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5708</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="1437a283db10d740de299ea3db9619cc">1437a283db10d740de299ea3db9619cc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-20 04:32:57</sys_created_on>
+        <sys_id>9c37a283db10d740de299ea3db9619cc</sys_id>
+    </sys_attachment_doc>
+</record_update>

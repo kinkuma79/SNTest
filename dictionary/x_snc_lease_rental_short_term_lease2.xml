@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Short Term Rental" max_length="40" name="x_snc_lease_rental_short_term_lease2" sizeclass="1" type="collection">
+        <element label="第一希望" max_length="40" name="u_1st_pref" type="glide_date_time"/>
+        <element label="第二希望" max_length="40" name="u_2nd_pref" type="glide_date_time"/>
+        <element label="第三希望" max_length="40" name="u_3rd_pref" type="glide_date_time"/>
+        <element label="Manager Approval" max_length="40" name="u_approval" type="boolean"/>
+        <element label="Contents Check" max_length="40" name="u_contents_check" type="boolean"/>
+        <element label="Seminar Attendance Check" max_length="40" name="u_seminar_check" type="boolean"/>
+    </element>
+</database>

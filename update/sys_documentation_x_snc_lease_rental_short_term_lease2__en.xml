@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Short Term Rental" language="en" table="x_snc_lease_rental_short_term_lease2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Short Term Rental</label>
+            <language>en</language>
+            <name>x_snc_lease_rental_short_term_lease2</name>
+            <plural>Short Term Rentals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 02:30:53</sys_created_on>
+            <sys_id>104bca4bdb9c9740de299ea3db961965</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Short Term Rental</sys_name>
+            <sys_package display_value="Lease Rental Car Management" source="x_snc_lease_rental">fc4da94fdbd89740de299ea3db961936</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lease Rental Car Management">fc4da94fdbd89740de299ea3db961936</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lease_rental_short_term_lease2__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-21 05:48:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

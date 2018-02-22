@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Lease Car Usage" language="en" table="x_snc_lease_rental_lease_car_usage">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Lease Car Usage</label>
+            <language>en</language>
+            <name>x_snc_lease_rental_lease_car_usage</name>
+            <plural>Lease Car Usages</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-20 08:01:58</sys_created_on>
+            <sys_id>9a07d7c3dbd0d740de299ea3db961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Lease Car Usage</sys_name>
+            <sys_package display_value="Lease Rental Car Management" source="x_snc_lease_rental">fc4da94fdbd89740de299ea3db961936</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lease Rental Car Management">fc4da94fdbd89740de299ea3db961936</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lease_rental_lease_car_usage__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-20 08:01:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
